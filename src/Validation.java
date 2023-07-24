@@ -1,6 +1,3 @@
-package com.shpp.p2p.cs.mshulga.assignment11;
-
-
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
